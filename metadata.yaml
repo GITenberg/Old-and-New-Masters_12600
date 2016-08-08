@@ -1,0 +1,35 @@
+_repo: Old-and-New-Masters_12600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynd, Robert
+    birthdate: 1879
+    deathdate: 1949
+    gutenberg_agent_id: '4450'
+    url: http://www.gutenberg.org/2009/agents/4450
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Wilson_Lynd
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 20th century -- History and criticism'
+- !lcsh 'Literature, Modern -- History and criticism'
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Dostoevsky the sensationalist -- Jane Austen: natural historian
+  -- Mr. G.K. Chesterton and Mr. Hilaire Belloc -- Wordsworth -- Keats -- Henry James
+  -- Browning: the poet of love -- The fame of J.M. Synge -- Villon: the genius of
+  the tavern -- Pope -- James Elroy Flecker -- Turgenev -- The madness of Strindberg
+  -- "The prince of French poets" [Ronsard] -- Rossetti and ritual -- Mr. Bernard
+  Shaw -- Mr. Masefield''s secret -- Mr. W.B. Yeats -- Tchehov: the perfect story-teller
+  -- Lady Gregory -- Mr. Cunninghame Graham -- Swinburne -- The work of T.M. Kettle
+  -- Mr. J.C. Squire -- Mr. Joseph Conrad -- Mr. Rudyard Kipling -- Mr. Thomas Hardy.'
+title: Old and New Masters
+url: http://www.gutenberg.org/ebooks/12600
